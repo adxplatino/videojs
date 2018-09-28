@@ -1,2 +1,0 @@
-# videojs
-videojs
